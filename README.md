@@ -7,8 +7,14 @@ I’m a React & Next.js developer in the U.S. Air Force, building dashboards
 ## 🛠️ Projects
 
 ### Job Tracker Dashboard  
-🔗 Live demo: https://job-tracker-dashboard-codingguy927.vercel.app  
-🔗 Code: https://github.com/codingguy927/job-tracker-dashboard  
+🔗 Code & live preview: https://github.com/codingguy927/job-tracker-dashboard  
+> Clone & run locally:  
+> ```bash
+> git clone https://github.com/codingguy927/job-tracker-dashboard.git
+> cd job-tracker-dashboard
+> npm install
+> npm run dev
+> ```  
 **Highlights:**  
 - CRUD UI for creating, reading, updating, and deleting job entries  
 - Filters by status and date  
@@ -19,8 +25,14 @@ I’m a React & Next.js developer in the U.S. Air Force, building dashboards
 ---
 
 ### Client Dashboard  
-🔗 Live demo: https://client-dashboard-codingguy927.vercel.app  
-🔗 Code: https://github.com/codingguy927/client-dashboard  
+🔗 Code & live preview: https://github.com/codingguy927/client-dashboard  
+> Clone & run locally:  
+> ```bash
+> git clone https://github.com/codingguy927/client-dashboard.git
+> cd client-dashboard
+> npm install
+> npm run dev
+> ```  
 **Highlights:**  
 - Interactive client list with search, sort, and pagination  
 - Modals for editing client details and managing tasks  
