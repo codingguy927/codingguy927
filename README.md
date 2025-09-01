@@ -24,7 +24,17 @@ I’m a React & Next.js developer in the U.S. Air Force, building dashboards
 - Modals for editing client details and managing tasks  
 - CSV export of client and task data  
 - Task progress bars and priority badges  
-- Implemented with Next.js, React, Tailwind CSS, and animated UI  
+- Implemented with Next.js, React, Tailwind CSS, and animated UI
+
+### AI Resume Reviewer  
+🔗 Code: https://github.com/codingguy927/ai-resume-reviewer · Live: https://<your-vercel-url>  
+**Highlights:**  
+- Upload a PDF resume and compare it to any job description  
+- AI feedback as structured JSON: strengths, weaknesses, suggestions, match score  
+- Skill match visualization (resume vs. JD)  
+- Export report (CSV/PDF) and dark mode UI  
+- Built with Next.js (App Router), Tailwind CSS v4, OpenAI API, and Vercel
+
 
 ---
 
