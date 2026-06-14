@@ -1,8 +1,7 @@
 # Hi, I’m Lee “blueaura” Mitchell 👋
 **Frontend Developer (React/Next.js) · U.S. Air Force**
 
-I build fast, clean dashboards and e-commerce experiences with a focus on real-world UX, performance, and maintainability.
-
+Lee Alexander MitchellFrontend Engineer | U.S. Air Force VeteranI build performant, scalable, and maintainable frontend architectures. With a background rooted in high-precision military operations and quality assurance, I bring a "zero-fail" engineering mindset to software development. I specialize in building responsive, modern user interfaces using React and Next.js, with a focus on web performance, clean code, and intuitive UX.Engineering PhilosophyI believe that engineering rigor is the foundation of user trust. My workflow emphasizes:Performance-First Design: Leveraging modern framework features (Next.js App Router, code-splitting) to optimize Core Web Vitals and load times.  Systematic QA: Applying rubric-based validation and structured testing (Playwright/Jest) to ensure resilient, bug-free production code.  Extensible Architecture: Writing clean, documented, and modular code that scales with evolving product requirements.  
 ---
 
 ## 🛠️ Projects
